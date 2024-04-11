@@ -9,7 +9,7 @@
 </p>
 
 
-                                     - 📫 How to reach me **gilbert2611@hotmail.com**
+                                       📫 How to reach me **gilbert2611@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
