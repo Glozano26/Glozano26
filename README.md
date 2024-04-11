@@ -3,7 +3,11 @@
 
 
 
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"  height="300" width="600px"/>
+
+<p align="center">
+  <img alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="width:60%; height:auto;"/>
+</p>
+
 
 - 📫 How to reach me **gilbert2611@hotmail.com**
 
