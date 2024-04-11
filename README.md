@@ -3,7 +3,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"  height="300" width="600px"/>
 
 - 📫 How to reach me **gilbert2611@hotmail.com**
 
